@@ -1,0 +1,4 @@
+(executable
+ (public_name house_builder)
+ (name main)
+ (libraries house_builder minttea leaves))
