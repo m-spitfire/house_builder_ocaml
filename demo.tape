@@ -16,13 +16,12 @@ Type "17"
 Sleep 1.5s
 Enter
 Sleep 500ms
-Escape
-Type "[C"
-Escape
-Type "[D"
-Escape
-Type "[C"
+Right
+Sleep 1s
+Left
+Sleep 500ms
+Right
 Sleep 1s
 Enter
-Sleep 500ms
+Sleep 5s
 
